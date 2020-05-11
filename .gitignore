@@ -1,3 +1,5 @@
 HelloWorld/.vs
 HelloWorld/Build
-
+Build
+.vs
+*.user
